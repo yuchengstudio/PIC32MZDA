@@ -45,8 +45,10 @@ b.需要保证PIC32MZ的DPI接口与LCD的DPI接口连接正确。
 ![images](https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/PIC32MZDA_GRAPHIC_005.jpg)
 
 来自《Low Cost Controllerless (LCC) Graphics PICtail》的Table 2. 上表有误，正确连接应该如下表。
-![images](https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/PIC32MZDA_GRAPHIC_006.jpg)
+《Low Cost Controllerless (LCC) Graphics PICtail》链接如下：
 https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/Low%20Cost%20Controllerless%20(LCC)%20Graphics%20PICtail.pdf
+![images](https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/PIC32MZDA_GRAPHIC_006.jpg)
+
 
 
  RGB565 PMD正确连接方式
