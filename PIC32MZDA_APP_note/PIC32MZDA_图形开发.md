@@ -1,6 +1,6 @@
 #                                      目录
 * [1. PIC32MZ系列单片机与外部LCD驱动器的硬件连接](#1-PIC32MZ系列单片机与外部LCD驱动器的硬件连接)
-* [2. 如何在Harmony中配置 PIC32MZ DA 的图形显示功能](#2-如何在Harmony中配置PIC32MZDA的图形显示功能)
+* [2. 如何在Harmony中配置PIC32MZDA的图形显示功能](#2-如何在Harmony中配置PIC32MZDA的图形显示功能)
 
 # 1. PIC32MZ系列单片机与外部LCD驱动器的硬件连接
 
