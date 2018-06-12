@@ -1,4 +1,6 @@
+#                                      目录
 * [1.PIC32MZ系列单片机与外部LCD驱动器的硬件连接](#1-PIC32MZ系列单片机与外部LCD驱动器的硬件连接)
+* [2.如何在 Harmony 中配置 PIC32MZ DA 的图形显示功能](#2-如何在 Harmony 中配置 PIC32MZ DA 的图形显示功能)
 # 1. PIC32MZ系列单片机与外部LCD驱动器的硬件连接
 1.PIC32MZ支持DPI直接驱动图形显示器，但目前市面上更多的LCD屏是带GRAM的，也就是说自己LCD模块上自带液晶驱动，这样的话，需要如下几部操作，以确保PIC32MZ能在硬件上连接正确。
 
@@ -64,7 +66,7 @@ https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictur
  
  
  
- # 2.0 如何在 Harmony 中配置 PIC32MZ DA 的图形显示功能
+ # 2. 如何在 Harmony 中配置 PIC32MZ DA 的图形显示功能
  请参考如下链接：
  https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/PIC32MZDA%20%E5%9B%BE%E5%BD%A2%E6%98%BE%E7%A4%BA%E5%BC%80%E5%8F%91.pdf
  
