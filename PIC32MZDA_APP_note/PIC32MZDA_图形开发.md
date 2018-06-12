@@ -54,6 +54,7 @@ b.需要保证PIC32MZ的DPI接口与LCD的DPI接口连接正确。
  
 
  c:确定LCD屏的硬件接口模式选择是否正确（说明：DPI接口不仅要硬件设置，还需要进一步通过软件SPI设置。）
+ DPI（Display Pixel Interface）规范中所规定的硬件接口跟DBI规范中并不相同，它不是像DBI规范用Command/Data配置液晶驱动IC的寄存器再进行操作。某种程度上，DPI与DBI的最大差别是DPI的数据线和控制线分离，而DBI是复用的。
  
 
 
