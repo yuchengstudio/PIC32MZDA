@@ -77,6 +77,12 @@ https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictur
  https://github.com/yuchengstudio/PIC32MZDA/blob/master/PIC32MZDA_APP_note/pictures/PIC32MZDA%20%E5%9B%BE%E5%BD%A2%E6%98%BE%E7%A4%BA%E5%BC%80%E5%8F%91.pdf
  
  
+ 
+ # 参考文献
+ 1.DBI接口与DPI接口与DSI接口
+ https://blog.csdn.net/zhandoushi1982/article/details/5908368
+ 
+ 
 
 
 
